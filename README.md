@@ -18,15 +18,18 @@ It helps in better understanding the data and supports data-driven decision maki
 - Data analysis and visualization  
 - Clear reports or dashboards  
 
-## Output
-- Graphs and charts  
-- Insights and summary reports  
-- Interactive dashboards 
-
 ## Future Improvements
 - Add more data sources  
 - Improve analysis accuracy  
-- Automate data updates  
+- Automate data updates
 
-## Author
-Kasala Suvarna
+## Output
+- Graphs and charts  
+- Insights and summary reports , Interactive dashboards
+"C:\Users\suvar\OneDrive\Pictures\Screenshots\Screenshot 2025-12-28 161548.png"
+
+"C:\Users\suvar\OneDrive\Pictures\Screenshots\Screenshot 2025-12-28 161719.png"
+
+"C:\Users\suvar\OneDrive\Pictures\Screenshots\Screenshot 2025-12-28 161731.png"
+
+
